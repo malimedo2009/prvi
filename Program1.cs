@@ -4,7 +4,9 @@ public class Class1
 {
 	public Class1()
 	{
-		Console.WriteLine("Hello World!");
-
+		static void Main(string[] args)
+		{
+			Console.WriteLine("Hello World!");
+		}
 	}
 }
